@@ -1,0 +1,6 @@
+{
+  "name": "Free Ride",
+  "description": "Магазин, прокат и ремонт велосипедов с премиальным дизайном и удобным интерфейсом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
